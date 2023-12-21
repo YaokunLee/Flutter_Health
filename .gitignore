@@ -1,0 +1,70 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Xcode related
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.pbxuser
+*.perspectivev3
+.xcuserdata
+xcuserdata/
+DerivedData/
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+*.xcworkspace
+!default.xcworkspace
+profile
+*.generated_plugin_registrant.dart
+
+# Android related
+.keystore
+.android/
+.gradle
+/build/
+
+# iOS related
+**/.generated_plugin_registrant.dart
+**/Flutter/ephemeral
+**/Flutter/flutter_export_environment.sh
+**/Flutter/Generated.xcconfig
+**/Pods/
+*.generated_plugin_registrant.dart
+/ios/Flutter/.last_build_id
+/ios/Flutter/App.framework
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/ephemeral/
+/ios/Flutter/flutter_export_environment.sh
+/ios/Flutter/podhelper.rb
+/ios/.symlinks/
+/ios/Flutter/engine/Flutter.podspec
+/ios/Flutter/engine/Flutter.xcframework
+/ios/Flutter/plugin_registrant/GeneratedPluginRegistrant.*
